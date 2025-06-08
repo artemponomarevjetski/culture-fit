@@ -1,6 +1,6 @@
 # Culture-Fit
 
-Welcome to the **culture-fit** repository, a tech industry career booster designed by `artemponomarevjetski`. This repository is dedicated to sharing insights, strategies, and resources for individuals looking to enhance their careers in the tech industry, focusing on agile software development, career success, capital raising, customer-centric culture, job negotiation, and transitioning into tech management roles.
+Welcome to the **culture-fit** repository, a tech industry career booster designed by . This repository is dedicated to sharing insights, strategies, and resources for individuals looking to enhance their careers in the tech industry, focusing on agile software development, career success, capital raising, customer-centric culture, job negotiation, and transitioning into tech management roles.
 
 ## About
 
@@ -21,7 +21,7 @@ This repository contains certificates of completion for various professional dev
 - Moving from Developer to Engineering Manager
 - The 45-Minute Business Plan
 
-Additionally, a motivational `problem-solver.png` image is included to inspire repository visitors.
+Additionally, a motivational  image is included to inspire repository visitors.
 
 ## How to Use
 
